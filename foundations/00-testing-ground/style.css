@@ -1,0 +1,9 @@
+/* rule 1 subsection */
+.subsection {
+    color: blue;
+}
+  
+/* rule 2 main*/
+.main .list {
+    color: red;
+}
